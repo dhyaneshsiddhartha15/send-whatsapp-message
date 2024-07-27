@@ -1,31 +1,31 @@
-# React & Tailwind CSS Starter Pack
 
-This is a starter pack for creating React projects with Tailwind CSS configured. It uses React version **18.2** and Tailwind CSS version **3.2**.
+# WhatsApp Messaging App
 
-## Usage
+## Overview
 
-This starter pack includes a basic setup for using **Tailwind CSS with React**. To start building your own components and styles, follow these steps:
+This project is a simple application for sending WhatsApp messages using the WhatsApp Business API. It provides a frontend form for inputting necessary details and a backend API endpoint for sending messages.
 
-1. Clone the repository to your local machine.
-    ```sh
-    git clone https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git
-    ```
+## Features
 
-1. Install the required packages.
-    ```sh
-    cd react-tailwind-css-starter-pack
-    npm install
-    ```
+- **Frontend**: A form to input the access token, phone number ID, and recipient phone number.
+- **Backend**: An API endpoint that sends a WhatsApp message using the provided details.
 
-1. Start the development server.
-    ```sh
-    npm start
-    ```
-1. Open the project in your browser at [`http://localhost:3000`](http://localhost:3000) to view your project.
-1. Create your React components and add your styles using Tailwind classes. You can also create new CSS files and import them into your components.
+## Technologies Used
 
-The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup.
+- **Frontend**: React.js, Tailwind CSS, Formik, Yup
+- **Backend**: Node.js, Express.js, Axios
+- **API**: WhatsApp Business API
 
-## Contributing
+## Setup and Installation
 
-Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
+### Prerequisites
+
+- Node.js and npm (or yarn) installed on your system.
+- Access to the WhatsApp Business API.
+
+![image](https://github.com/user-attachments/assets/dad373fd-6948-468c-8440-bcadde5cd455)
+
+
+https://github.com/user-attachments/assets/33d5309c-4605-4da4-a2ef-7cda0fca171c
+
+
